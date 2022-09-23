@@ -1,6 +1,6 @@
 # Team Name: Geeks for Hertz
 
-##Project description : 
+## Project description : 
 
 ## Team Members and Roles
 

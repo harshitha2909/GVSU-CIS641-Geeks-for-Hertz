@@ -11,7 +11,7 @@ Currently, many researchers are studying how "smart" technology can be developed
 A collaboration is being planned with Spectrum Health, and they will sponsor the project. A worldwide spectrum health network makes it easy for this app to reach as many people as possible. Through this app, the patient will be able to check their vital signs such as blood pressure and heart rate. Additionally, we intend to expand the features to check for additional health and illness concerns by allowing patients to input symptoms that raise the possibility of particular diseases, suggest basic treatments, and attempt to schedule a consultation with a doctor from the relevant department for further assessment. To sum up, this program is simple for illeterates to use as well. The most individuals it can reach are its principal objective.
 
 
-# Anticipated Technologies
+# Anticipated Technologies :
 For building our project we require Java, React native.
 
 

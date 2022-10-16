@@ -1,3 +1,5 @@
+# Overview 
+Based on the symptoms that the patient has entered, this page describes the patient login and the major medicine. Additionally, it provides information regarding further medical care by scheduling a doctor's appointment, at which point the patient is diagnosed with the disease and further medication is prescribed by the physician in accordance with the diagnosis report. Additionally, it provides details regarding the security of the patient's personal data and medical history.
 # Functional Requirements
 
 1. Login section:

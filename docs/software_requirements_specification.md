@@ -17,8 +17,8 @@
 
 1. Login section:
     1. User shall login into application only whenn the user enters correct username and password.
-    2.  Application shall maintain high availability for all the users who are to access from different regions.
-    3.  Application shall scale in or scale out based on ther user's traffic request.
+    2.  Application shall maintain high availability for all the users who are tring to access from different regions.
+    3.  Application shall scale in or scale out based on the user's traffic request.
 2. Medical history:
     1. Patient information shall be safe guarded according to regulatory compliance.
     2. Medical history shall be safe guarded according to regulatory compliance.

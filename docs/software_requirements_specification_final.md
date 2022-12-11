@@ -135,7 +135,7 @@ In our application we have an help tab, which is used to resolve the issues at a
 # Traceability Links
 In this section we have described the relation between Software requirements and use case diagrams, activity diagrams, class diagrams which we have used for building our application.
 ## Use Case Diagram Traceability
-| Artifact 1 | Artifact Name | Requirement ID |
+| Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
 | UseCase1 | UCD 1.png | FR1 to FR5 |
 | UseCase2 | UCD 2.png | FR16 to FR20 |

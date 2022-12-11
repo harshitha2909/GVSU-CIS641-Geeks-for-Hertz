@@ -134,10 +134,24 @@ In our application we have an help tab, which is used to resolve the issues at a
 
 # Traceability Links
 In this section we have described the relation between Software requirements and use case diagrams, activity diagrams, class diagrams which we have used for building our application.
+## Use Case Diagram Traceability
+| Artifact 1 | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+| UseCase1 | UCD 1.png | FR1 to FR5 |
+| UseCase2 | UCD 2.png | FR16 to FR20 |
+| UseCase3 | UCD 3.png | FR21 to FR33 |
+
+## Class Diagram Traceability
+| Artifact Name | Requirement ID |
+| :-------------: |:----------: |
+| CD.png | NFR1 to NFR25 , FR1 to FR40 |
+| 
 
 # Software Artifacts
 * [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/AD%20DA.png] (Activity diagram for doctor appointment)
 * [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/AD%20pm.png] (Activity diagram for primary medication)
 * [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/CD.png] (Class diagram of our entire project)
 * [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/UCD%201.png] (Use case diagram of login/sign up page)
+* [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/UCD%202.png] (Use case diagram of primary medication)
+* [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/UCD%203.png] (Use case diagram of doctor appointment)
 * 

@@ -11,5 +11,5 @@ In our application we have an help tab, which is used to resolve the issues at a
 In this section we have described the relation between Software requirements and use case diagrams, activity diagrams, class diagrams which we have used for building our application.
 
 # Software Artifacts
-[https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/AD%20DA.png](Activity diagram for primary medication)
+[https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/AD%20DA.png] (Activity diagram for primary medication)
 [

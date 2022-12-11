@@ -15,8 +15,8 @@ For running the application on mobile device: "Expo Go" app is needed to be inst
 
 ## Run Instructions
 * After installing any of the IDE versions of visual studio, you need to download the folder of "medications-ui"( it is provided in our website).
-* Open the folder where "medications-ui" is installed and run the following commands:
-** cd medications-ui
-** npm start
+### Open the folder where "medications-ui" is installed and run the following commands:
+* cd medications-ui
+* npm start
 * By entering alphabet "w", the application can be runned in website.
 * By scanning the QR code using scanner, the application can be accessed in any mobile device like android or mac. 

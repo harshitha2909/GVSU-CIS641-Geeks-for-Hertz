@@ -2,7 +2,7 @@
 ###  <Login Page>
 
 | ID | Requirement | 
-| :-------------: | :----------: | 
+| :-------------: | ---------- | 
 | FR1 |	          | <System shall display empty login Dialog>|
 | FR2 |	          | <System shall allow user to fill login details in Dialog box>|
 | FR3 |	          | System shall throw error if Incorrect Credentials provided

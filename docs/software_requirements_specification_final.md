@@ -15,4 +15,5 @@ In this section we have described the relation between Software requirements and
 * [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/AD%20pm.png] (Activity diagram for primary medication)
 * [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/CD.png] (Class diagram of our entire project)
 * [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/UCD%201.png] (Use case diagram of login/sign up page)
-* 
+* [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/UCD%202.png] (Use case diagram of primary medication)
+* [https://github.com/harshitha2909/GVSUCIS641Geeks-for-Hertz/blob/master/artifacts/UCD%203.png] (Use case diagram of doctor appointment)

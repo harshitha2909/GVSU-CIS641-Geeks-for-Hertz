@@ -1,5 +1,5 @@
 ## Functional Requirements 
-###  <Login Page>
+###  Login Page
 
 | ID | Requirement | 
 | :-------------: | :----------: | 
@@ -9,7 +9,8 @@
 | FR4 |	System shall validate Correct Credentials Dialog |
 | FR5 |	System shall allow user to Click on login after providing details |
   
-###  <Signup Page>
+  
+###  Signup Page
 
 | ID | Requirement | 
 | :-------------: | :----------: | 
@@ -21,7 +22,7 @@
   
   
 
-###  <Patient Info Page>
+###  Patient Info Page
 
 | ID | Requirement | 
 | :-------------: | :----------: | 
@@ -33,7 +34,7 @@
   
   
 
-###  <Primary medication Page>
+###  Primary medication Page
 
 | ID | Requirement | 
 | :-------------: | :----------: |
@@ -45,7 +46,7 @@
   
 
 
-###  <Consultation Page>
+###  Consultation Page
 
 | ID | Requirement | 
 | :-------------: | :----------: |
@@ -58,7 +59,7 @@
   
   
 
-###  <Scheduling appointment>
+###  Scheduling appointment
 
 | ID | Requirement | 
 | :-------------: | :----------: |
@@ -72,7 +73,7 @@
   
 
 
-###  <Payment Page>
+###  Payment Page
 
 | ID | Requirement | 
 | :-------------: | :----------: |
@@ -85,55 +86,41 @@
 | FR40 | System shall allow user to click on submit option |
 
 
+  
+## Non-Functional Requirements
 
-## Nonfunctional requirement
+### Performance
+| ID | Requirement |
+| :-------------: | :----------: |
+| NFR1 | System shall perform all tasks by using queuing mechanism |
+| NFR2 | System shall perform multiple users at the same time |
+| NFR3 | System shall load the pages as intended regardless of the traffic |
+| NFR4 | Application shall execute within the execution period (< 3 Secs) |
+| NFR5 | System shall retrieve data, whenever the health care provider needs it. Such as patient information, medical history |
 
-###  <Performance>
+                                                                   
+### Security
+  
+| ID | Requirement |
+| :-------------: | :----------: |
+| NFR6 | System shall allow user to login only when user enters correct username and password |
+| NFR7 | System shall secure personal information of user |
+| NFR8 | System shall secure sensitive information (payment details) |                                                                  
+| NFR9 | System shall remain resilient in the face of attacks |
+| NFR10 | System shall follow HIPAA rules in safe guarding patient medical information |
 
-| ID | Requirement | 
-| :-------------: | :----------: | 
 
-| FR41 | System shall perform all tasks by using queuing mechanism |
-| FR42 | System shall perform multiple users at the same time |
-| FR43 | System shall load the pages as intended regardless of the traffic |
-| FR44 | Application shall execute within the execution period (< 3 Secs) |
-| FR45 | System shall retrieve data, whenever the health care provider needs it. Such as patient information, medical history |
-
-###  <Security>
-
-| ID | Requirement | 
-| :-------------: | :----------: | 
-
-| FR46 | System shall allow user to login only when user enters correct username and password |
-| FR47 | System shall secure personal information of user |
-| FR48 | System shall secure sensitive information (payment details) |
-| FR49 | System shall remain resilient in the face of attacks |
-| FR50 | System shall follow HIPAA rules in safe guarding patient medical information |
-
-###  <Scalability>
-
-| ID | Requirement | 
-| :-------------: | :----------: | 
-
-| FR51 | System shall scale-in without performance degradation when increase in workload |
-| FR52 | System shall be scalable enough to access the highest workloads under which system will meet the performance requirements |
-| FR53 | System shall be capable enough to handle millions of requests |  
-| FR54 | System shall scale out when workload decreases without affecting system performance |
-| FR55 | System shall support predicated growth over a number of years |
+### Scalability
+| ID | Requirement |
+| :-------------: | :----------: |
+| NFR11 | System shall scale-in without performance degradation when increase in workload |
+| NFR12 | System shall be scalable enough to access the highest workloads under which system will meet the performance requirements |
+| NFR13 | System shall be capable enough to handle millions of requests |  
+| NFR14 | System shall scale out when workload decreases without affecting system performance |
+| NFR15 | System shall support predicated growth over a number of years |
 
 
 
-
-
-###  <Resilience>
-
-| ID | Requirement | 
-| :-------------: | :----------: | 
-
-| FR56 |	| 
-| FR57 |	|
-| FR58 |	|
-![image](https://user-images.githubusercontent.com/105883147/206884766-a5893928-a2f2-4dba-b5dd-c9249f1d677e.png)
 
 
 # Change management plan

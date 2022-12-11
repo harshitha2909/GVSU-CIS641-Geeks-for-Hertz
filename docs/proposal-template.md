@@ -8,7 +8,7 @@ Millions of lives have been affected by COVID-19 around the world. Now more than
 
 Currently, many researchers are studying how "smart" technology can be developed, used, and evaluated in a broader health-care context. These studies encompass a wide range of human studies, target audiences, purposes, and technology platforms. As part of our development effort, we are developing a mobile app that can diagnose diseases, suggest basic medications, and schedule an appointment for further evaluation with a doctor. In this proposal, we look at how smart technologies can assist people in doing what they cannot do on their own, while also encouraging (or helping) them to do as much for themselves as possible.	
 
-A collaboration is being planned with Spectrum Health, and they will sponsor the project. A worldwide spectrum health network makes it easy for this app to reach as many people as possible. Through this app, the patient will be able to check their vital signs such as blood pressure and heart rate. Additionally, we intend to expand the features to check for additional health and illness concerns by allowing patients to input symptoms that raise the possibility of particular diseases, suggest basic treatments, and attempt to schedule a consultation with a doctor from the relevant department for further assessment. To sum up, this program is simple for illeterates to use as well. The most individuals it can reach are its principal objective.
+
 
 
 # Anticipated Technologies :

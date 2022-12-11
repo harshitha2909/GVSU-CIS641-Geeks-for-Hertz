@@ -123,11 +123,21 @@
 
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR16 | application shall support a continuous level of availability with no performance degradation |
-| NFR17 | application  shall available to the patient and the provider at any given point of time |
-| NFR18 | application  shall be able to give access to the patient and the provider about the data stored in the application at any given point of time |
-| NFR19 | application shall  be able to be updated with the most recent modifications and made available to users.|
-| NFR20 | application server and network shall always have access to the application.|
+| NFR16 | Application shall support a continuous level of availability with no performance degradation |
+| NFR17 | Application  shall available to the patient and the provider at any given point of time |
+| NFR18 | Application  shall be able to give access to the patient and the provider about the data stored in the application at any given point of time |
+| NFR19 | Application shall  be able to be updated with the most recent modifications and made available to users.|
+| NFR20 | Application server and network shall always have access to the application.|
+
+### Compatibility
+
+| ID | Requirement |
+| :-------------: | :----------: |
+| NFR21 | Application shall be compatible with any operating system |
+| NFR22 | Application shall highly compatible well when other applications are running on a device |
+| NFR23 | Application shall run with the same speed in any device like a laptop, PC, mobile |
+| NFR24 | Application shall have the ability to work seamlessly across various hardware devices without any trouble |
+| NFR25 | Application shall maintain the same speed even if it undergoes any technical changes|
 
 
 

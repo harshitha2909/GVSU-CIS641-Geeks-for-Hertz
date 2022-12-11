@@ -119,6 +119,16 @@
 | NFR14 | System shall scale out when workload decreases without affecting system performance |
 | NFR15 | System shall support predicated growth over a number of years |
 
+### Availability
+
+| ID | Requirement |
+| :-------------: | :----------: |
+| NFR16 | application shall support a continuous level of availability with no performance degradation |
+| NFR17 | application  shall available to the patient and the provider at any given point of time |
+| NFR18 | application  shall be able to give access to the patient and the provider about the data stored in the application at any given point of time |
+| NFR19 | application shall  be able to be updated with the most recent modifications and made available to users.|
+| NFR20 | application server and network shall always have access to the application.|
+
 
 
 

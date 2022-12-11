@@ -11,9 +11,11 @@
   
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR1 | <Requirement 1> |
-| FR2 | <Requirement 2> |
-| FR3 | <Requirement 3> |
+| FR1 | <System shall display empty login Dialog> |
+| FR2 | <System shall allow user to fill login details in Dialog box> |
+| FR3 | <System shall throw error if Incorrect Credentials provided> |
+| FR4 |	<System shall validate Correct Credentials Dialog> |
+| FR5 |	<System shall allow user to Click on login after providing details> |
 | … | … | … |
 
   
